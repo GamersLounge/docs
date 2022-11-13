@@ -1,6 +1,6 @@
 import sidebar from "./sidebar";
 
-const baseURL = "/34891f4a48e57f74f40d76f9bad4675a711d2929/";
+const baseURL = "/docs/34891f4a48e57f74f40d76f9bad4675a711d2929/";
 
 const nav = [
     { text: "Work", link: "/docs/work/introduction" },
