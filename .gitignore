@@ -1,0 +1,17 @@
+node_modules
+dist/*
+
+# Exclude index.html
+!dist/index.html
+
+# Env files
+.env
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
